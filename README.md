@@ -1,10 +1,12 @@
-** BUILD the plugin and app
+## BUILD 
+
+Build the plugin and app
 
 ```
 ./build.sh
 ```
 
-** DEBUG
+## DEBUG
 
 From VSCode > Run and Debug - Run "Launch Package" 
 
